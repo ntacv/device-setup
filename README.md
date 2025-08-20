@@ -16,3 +16,9 @@ perso > legal /
 ## shortcuts
 
 WrapKey: Windows key shortcuts alternative for macos
+
+## backup and cloud
+
+linux: Mega 15go
+windows & mac: ggDrive & oneDrive
+
