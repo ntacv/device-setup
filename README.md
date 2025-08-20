@@ -15,3 +15,4 @@ perso > legal /
 
 ## shortcuts
 
+WrapKey: Windows key shortcuts alternative for macos
