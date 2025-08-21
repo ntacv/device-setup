@@ -17,8 +17,22 @@ perso > legal /
 
 WrapKey: Windows key shortcuts alternative for macos
 
+## clean computer (before backup)
+
+- macos
+
+Sort Applications and Download folders
+
+erase: 
+- ~/Library/Caches
+- ~/Library/Logs
+- /Library/Caches
+- /Library/Languages
+- /var/log
+
+try https://www.omnigroup.com/more OmniDiskSweeper
+
 ## backup and cloud
 
 linux: Mega 15go
 windows & mac: ggDrive & oneDrive
-
