@@ -35,4 +35,19 @@ try https://www.omnigroup.com/more OmniDiskSweeper
 ## backup and cloud
 
 linux: Mega 15go
+
 windows & mac: ggDrive & oneDrive
+
+## applications
+
+<details>
+<summary>Browser</summary>
+  
+- [zen browser](https://zen-browser.app)
+  - mods
+    - zen internet
+- [Sine mods](https://github.com/CosmoCreeper/Sine/releases)
+</details>
+
+
+
