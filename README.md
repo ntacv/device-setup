@@ -49,5 +49,9 @@ windows & mac: ggDrive & oneDrive
 - [Sine mods](https://github.com/CosmoCreeper/Sine/releases)
 </details>
 
+<details>
+<summary>utils</summary>
 
+- [ICE (mac)](https://icemenubar.app/)
+</details>
 
