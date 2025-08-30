@@ -44,6 +44,7 @@ windows & mac: ggDrive & oneDrive
 <summary>Browser</summary>
   
 - [zen browser](https://zen-browser.app)
+  - optimisation [rapidfox](https://github.com/Eratas/rapidfox)
   - mods
     - zen internet
 - [Sine mods](https://github.com/CosmoCreeper/Sine/releases)
