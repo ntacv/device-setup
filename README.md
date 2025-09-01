@@ -53,8 +53,9 @@ windows & mac: ggDrive & oneDrive
       - browser.urlbar.trimURLs : false
   - optimisation [rapidfox](https://github.com/Eratas/rapidfox)
   - mods
-    - zen internet
-- [Sine mods](https://github.com/CosmoCreeper/Sine/releases)
+    - better unloaded tabs
+    - transparent zen ([zen zero](https://www.sameerasw.com/zen)
+    - [Sine mods](https://github.com/CosmoCreeper/Sine/releases)
 </details>
 
 <details>
