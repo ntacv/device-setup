@@ -15,6 +15,10 @@ perso > legal /
 
 ## shortcuts
 
+### pc/mac conversion
+pc : ctrl fn win alt space altgr ctrl (huawei)
+mac : fn ctrl^ alt cmd space cmd alt (option=alt)
+
 WrapKey: Windows key shortcuts alternative for macos
 
 ## clean computer (before backup)
