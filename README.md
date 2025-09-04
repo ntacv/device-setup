@@ -7,7 +7,7 @@ main > linux or windows
 
 pro > intern /
 
-study > school / langage
+study > school / language
 
 perso > legal /
 
