@@ -51,6 +51,7 @@ windows & mac: ggDrive & oneDrive
   - settings
     - about:config
       - browser.urlbar.trimURLs : false
+      - zen.theme.content-element-separation : 0-5
   - optimisation [rapidfox](https://github.com/Eratas/rapidfox)
   - mods
     - better unloaded tabs
