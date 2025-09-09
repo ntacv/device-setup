@@ -56,7 +56,9 @@ windows & mac: ggDrive & oneDrive
   - mods
     - better unloaded tabs
     - transparent zen ([zen zero](https://www.sameerasw.com/zen)
+    - [actions in url](https://github.com/BibekBhusal0/zen-custom-js/tree/main/command-palette)
     - [Sine mods](https://github.com/CosmoCreeper/Sine/releases)
+
 </details>
 
 <details>
