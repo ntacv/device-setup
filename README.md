@@ -49,6 +49,8 @@ windows & mac: ggDrive & oneDrive
   
 - [zen browser](https://zen-browser.app)
   - settings
+    - keyboard shortcuts
+      - compact mode alt+C
     - about:config
       - browser.urlbar.trimURLs : false
       - zen.theme.content-element-separation : 0-5
@@ -58,7 +60,9 @@ windows & mac: ggDrive & oneDrive
     - transparent zen ([zen zero](https://www.sameerasw.com/zen)
     - [actions in url](https://github.com/BibekBhusal0/zen-custom-js/tree/main/command-palette)
     - [Sine mods](https://github.com/CosmoCreeper/Sine/releases)
-
+  - extensions
+    - [DarkReader]() alt+B
+    - [HighlightAll](https://addons.mozilla.org/en-US/firefox/addon/highlightall/)
 </details>
 
 <details>
