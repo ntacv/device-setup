@@ -21,6 +21,9 @@ mac : fn ctrl^ alt cmd space cmd alt (option=alt)
 
 WrapKey: Windows key shortcuts alternative for macos
 
+#### Warp terminal 
+- Settings>Feature>Global hotkey>Show window>keybind alt+W
+
 ## clean computer (before backup)
 
 - macos
