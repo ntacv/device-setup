@@ -54,6 +54,9 @@ windows & mac: ggDrive & oneDrive
   - settings
     - keyboard shortcuts
       - compact mode alt+C
+      - toggle sidebar size ctl+alt+C
+      - picture-picture alt+P
+      - bookmarks sidebar ctl+B
     - about:config
       - browser.urlbar.trimURLs : false
       - zen.theme.content-element-separation : 0-5
