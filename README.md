@@ -60,6 +60,12 @@ windows & mac: ggDrive & oneDrive
     - about:config
       - browser.urlbar.trimURLs : false
       - zen.theme.content-element-separation : 0-5
+      - chat assistant
+        - "browser.ml.chat.enabled", true
+        - "browser.ml.chat.provider", "https://gemini.google.com"
+        - "browser.ml.chat.shortcuts", true
+        - "browser.ml.chat.sidebar", true
+        - "browser.ml.chat.shortcuts.custom", true
   - optimisation [rapidfox](https://github.com/Eratas/rapidfox)
   - mods
     - better unloaded tabs
