@@ -24,6 +24,14 @@ WrapKey: Windows key shortcuts alternative for macos
 #### Warp terminal 
 - Settings>Feature>Global hotkey>Show window>keybind alt+W
 
+## settings
+
+### Windows
+- system/multitasking
+  - snap windows (0 1 1 0 0)
+  - show tabs: dont show
+  - window shake: yes
+
 ## clean computer (before backup)
 
 - macos
